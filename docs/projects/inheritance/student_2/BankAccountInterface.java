@@ -6,7 +6,7 @@ interface BankAccountInterface{
     void transfer(double ammount, BankAccount destination) throws Exception;
 }
 //-----------------------------------------------------------------------------------------------------------------------------------
-abstract class BankAccount implements BankAccountInterface{
+abstract class BankAccount {
     private String name;
     private double balance;
     //*************************************************************************************************************/
