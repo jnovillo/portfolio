@@ -1,5 +1,9 @@
 # Content
 
+## Project directions
+
+This file lab_bank_accounts.pdf contains the directions for the inheritance project.
+
 ## Student 1 - Full level mastery
 
 The student shows a complete understanding of inheritance, interfaces, and abstract classes. The student followed the directions specified in the project requirements. Their knowledge of Java exceptions has been correctly applied in the implementation of this project. The classes are well organized. The code is clean, easy to follow, compiles with no issues, and meets the required functionalities. Their script passed all test cases.
